@@ -1,23 +1,20 @@
-<<<<<<< HEAD
-# ATV2_API_PW1
-=======
-# *ATV1_API_PW1*
-Atividade 1: Introdução a criação de API com nodes e uso de Middleware
-Desafio para criar uma aplicação para treinar o que aprendeu até agora no Node.js!
+# *ATV2_API_PW1*
+Atividade 2: Introdução a criação de API com nodes, Middleware e Prisma
+Desafio para criar uma aplicação para treinar os conhecimentos adquiridos na disciplina!
 
 # <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"> *Tecnologias Utilizadas*
 
 - Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - TypeScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-
+- Prisma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![TPrisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px">Como utilizar 
 
 Para iniciar a aplicação, siga os seguintes passos:
 1. Faça o git clone repositório na sua máquina;
 ```shell
-https://github.com/IsraelLazaro/ATV1_API_PW1.git
+https://github.com/IsraelLazaro/ATV2_API_PW1.git
 ```
 2. Instale as dependências necessárias executando o comando:
 ```shell
@@ -45,4 +42,4 @@ A aplicação permite que o usuário realize as seguintes funções:
 ## Autores
 
 - Israel Lázaro M Tavares (israellazaromt@gmail.com)
->>>>>>> origin/master
+
